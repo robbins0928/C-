@@ -8,7 +8,7 @@ namespace ArraysConsole_Applications
 {
     class ArrayExample
     {
-        //commit test visual studio
+        
         public int[] endArray = new int[100];
         public int[] endArray2 = new int[100];
         public int[,] square = new int[2, 2] { {0, 1}, {0, 1} };
