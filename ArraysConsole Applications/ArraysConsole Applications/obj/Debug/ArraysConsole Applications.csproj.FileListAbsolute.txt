@@ -7,3 +7,6 @@ E:\C#\ArraysConsole Applications\ArraysConsole Applications\obj\Debug\ArraysCons
 F:\C#\ArraysConsole Applications\ArraysConsole Applications\bin\Debug\ArraysConsole Applications.exe.config
 F:\C#\ArraysConsole Applications\ArraysConsole Applications\obj\Debug\ArraysConsole Applications.exe
 F:\C#\ArraysConsole Applications\ArraysConsole Applications\obj\Debug\ArraysConsole Applications.pdb
+E:\C#\C-\ArraysConsole Applications\ArraysConsole Applications\bin\Debug\ArraysConsole Applications.exe.config
+E:\C#\C-\ArraysConsole Applications\ArraysConsole Applications\obj\Debug\ArraysConsole Applications.exe
+E:\C#\C-\ArraysConsole Applications\ArraysConsole Applications\obj\Debug\ArraysConsole Applications.pdb
