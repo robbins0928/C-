@@ -20,10 +20,6 @@ namespace ArraysConsole_Applications
             answer = x * z;
             s.AppendFormat("The answer is: {0}", answer);
             printS(s);
-
-            
-
-
         }
         public static void printS(StringBuilder sb)
         {

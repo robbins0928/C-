@@ -8,12 +8,12 @@ namespace ArraysConsole_Applications
 {
     class ArrayExample
     {
-        
+        //Arrays
         public int[] endArray = new int[100];
         public int[] endArray2 = new int[100];
+        //Multidimensional Arrays
         public int[,] square = new int[2, 2] { {0, 1}, {0, 1} };
 
-        
         public void ArrayToEnd()
         {
             for (int x = 0; x<100; x++)
